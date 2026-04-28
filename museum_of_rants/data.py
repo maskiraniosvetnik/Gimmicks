@@ -414,7 +414,8 @@ ARTIFACT_NOUNS = {
         "Memory","Ghost","Shadow","Reflection","Echo","Impression","Imprint","Residue","Remainder","Afterimage",
         "Rain","Fog","Dark","Gray","Cold","Still","Heavy","Slow","Low","Down",
     ],
-frustrated": [
+
+"frustrated": [
         "Impasse","Friction","Gridlock","Snag","Block","Jam","Loop","Clog","Barrier","Deadlock",
         "Wall","Ceiling","Floor","Limit","Boundary","Edge","Border","Line","Threshold","Cap",
         "Stall","Halt","Stop","Freeze","Lock","Bind","Trap","Cage","Cell","Enclosure",
