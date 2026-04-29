@@ -10,9 +10,12 @@ import readchar
 
 random.seed()
 
-ROASTERS_DIR = os.path.dirname(os.path.abspath(__file__))
+ROASTERS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "roasters")
 
 def list_roasters():
+    if not os.path.isdir(ROASTERS_DIR):
+        print("ERROR: 'roasters' folder not found next to the script.")
+        sys.exit(1)
     files = sorted([f for f in os.listdir(ROASTERS_DIR) if f.endswith(".json")])
     if not files:
         print(f"ERROR: No JSON files found in '{ROASTERS_DIR}' folder.")
