@@ -1,0 +1,42 @@
+{
+    "break_roasts_by_minute": [
+        "ONE minute wasted. ONE. My gran could focus longer and she hasn't opened her eyes since 2019.",
+        "Two minutes. TWO. Do you know what I could cook in two minutes? A perfect soft-boiled egg. You? NOTHING.",
+        "Three minutes gone. THREE. You're not on a break, you're on a HOLIDAY. Get back to work you absolute donkey.",
+        "Four minutes?! FOUR?! You're not procrastinating anymore, you're actively INSULTING your future self. Disgusting.",
+        "Five minutes of pure, unfiltered laziness. I've seen frozen fish sticks with more drive than you.",
+        "Six minutes. This is not a break, this is a CAREER. You've basically retired. Congratulations, you useless biscuit.",
+        "Seven minutes?! I once kicked a chef out for burning toast. You've burned SEVEN MINUTES. Shameful.",
+        "Eight minutes. Your keyboard is collecting DUST. Your IDE is WEEPING. Your git log is a FLATLINE.",
+        "Nine minutes. NINE. I have souffles with more backbone than you. They rise under pressure. You just SIT.",
+        "Ten minutes! TEN! A DECADE of minutes! I am absolutely DONE with you. Press a key. NOW.",
+        "Eleven minutes. I don't even have words anymore. Just disappointment. Raw, Michelin-star-level disappointment.",
+        "Twelve minutes. I've roasted world-class chefs, reality TV disasters, raw chicken -- but YOU are something else.",
+        "Thirteen minutes. Fine. SIT there. Rot. Let your deadlines weep. I hope your coffee is stone cold.",
+        "Fourteen minutes. I'm calling your mother. She deserves to know what you've become.",
+        "Fifteen minutes. FIFTEEN. A quarter of an hour. A QUARTER. Of an HOUR. I need a drink."
+    ],
+    "interrupt_roasts": [
+        "Oh, taking a little BREAK are we?! You had ONE job. ONE. And you couldn't even finish it.",
+        "A keypress?! That's the sound of failure. That's YOUR sound now.",
+        "You lasted that long and then just... STOPPED?! Incredibly pathetic.",
+        "There it is. The moment of weakness I've been waiting for. Disappointing but NOT surprising.",
+        "You broke. You actually broke. I've seen more resolve in an overcooked pasta.",
+        "REALLY?! You were SO CLOSE and you just gave up like a soggy Yorkshire pudding?!",
+        "That's it?! My DISHWASHER has more grit than you."
+    ],
+    "resume_roasts": [
+        "Oh, finally decided to JOIN us? Welcome back to the land of the PRODUCTIVE.",
+        "Look who crawled back. Don't think I've forgotten what you did.",
+        "About time. The work was starting to think you'd abandoned it.",
+        "The prodigal procrastinator returns. Clock's ticking.",
+        "Finished your little holiday? Good. Now WORK.",
+        "Back already? Good. Don't make me wait again."
+    ],
+    "finish_lines": [
+        "Session complete. You actually did it. I'm... mildly impressed. Don't let it go to your head.",
+        "DONE. Finished. Gordon Ramsay is reluctantly proud. Don't make a big deal of it.",
+        "Work session over. Not bad. Not GOOD, but not bad. See you next time, donkey."
+    ],
+    "quit_line": "Running away entirely? Coward. Absolute coward. Goodbye."
+}
