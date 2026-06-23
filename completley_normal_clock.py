@@ -53,7 +53,7 @@ def ampm():
 def hour12():
     h = hour() % 12
     return 12 if h == 0 else h
-I'll
+    
 LEVELS = [
     "COMPOSED",
     "SLIGHTLY OFF",
